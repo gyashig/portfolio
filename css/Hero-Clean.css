@@ -1,0 +1,9 @@
+.fit-cover {
+  object-fit: cover;
+  text-shadow: 4px 0px rgb(37,42,46);
+  box-shadow: 14px 8px 15px rgb(54,60,67);
+}
+
+.navbar {
+}
+

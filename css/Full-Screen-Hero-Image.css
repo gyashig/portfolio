@@ -1,0 +1,16 @@
+#splash {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  padding: 0;
+  box-sizing: border-box;
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1qw__fSMU2xZjpO3LLv6BQwRgSDP4kgzF0PN8jxseXdVQnAtpw") center / cover no-repeat;
+  height: 500px;
+}
+
+#buttonsInlineFlex {
+  box-sizing: border-box;
+}
+
